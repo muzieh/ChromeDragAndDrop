@@ -1,0 +1,9 @@
+.drop-zone {
+	border:1px solid black;
+	width:200px;
+	height:200px;
+}
+
+.drop-zone.active {
+	border:1px solid red;	
+}
